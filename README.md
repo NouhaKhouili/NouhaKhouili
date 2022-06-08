@@ -3,7 +3,7 @@
 
 <img src="./assets/marquee.svg" />
 <!-- 
-<!-- <img src="./assets/ezgif-3-1d32d155182e.gif" /> -->
+
 
 <!-- <p align ="center"> -->
 <img src="./assets/lap.gif" align="right"/>

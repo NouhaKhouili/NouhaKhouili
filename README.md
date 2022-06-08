@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Ansible
 - 📫 How to reach me: khouili.nouha@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedanwer006&theme=dark)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedanwer006&theme=dark)
 
 
 # **Skill Set**
@@ -44,5 +44,5 @@ These are some of the major technologies that I use or have worked on in the pas
 <p align="center">
 <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
 <br>
-<p/>
+<p/> -->
 

@@ -1,9 +1,6 @@
 <p align ="center"><img src="./assets/title.svg" />
 </p>
 
-<img src="./assets/marquee.svg" />
-<!-- 
-
 
 <!-- <p align ="center"> -->
 <img src="./assets/lap.gif" align="right"/>
